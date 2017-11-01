@@ -23,3 +23,8 @@ events.*
 *.npz
 *.zip
 *.pyc
+*.ini
+*.0000
+*.frame_idx
+*.sidx
+*.bin
